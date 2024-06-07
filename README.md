@@ -15,7 +15,7 @@ This repository documents my progress as I learn Kotlin with the goal of becomin
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/cybersleuth0/Kotlin-Learning-Journey.git`
+1. Clone the repository: `git clone https://github.com/cybersleuth0/Kotlin-100DaysOfCode`
 2. Navigate to the project directory: `cd Kotlin-Learning-Journey`
 3. Explore the projects and follow along with the progress!
 
