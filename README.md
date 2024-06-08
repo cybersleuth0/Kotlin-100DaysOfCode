@@ -17,7 +17,7 @@ This repository documents my progress as I learn Kotlin with the goal of becomin
 
 ### 2. Simple Banking System
 - **Description**: A basic banking system in Kotlin to manage deposits and withdrawals.
-- **Code**: [Rock-Paper-Scissors](./Day2/BankSystem.kt)
+- **Code**: [OOPS-Banking-System](./Day2/BankSystem.kt)
 - **Highlights**: Learning about classes, objects, and methods.
 
 
