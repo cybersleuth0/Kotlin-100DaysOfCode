@@ -13,6 +13,14 @@ This repository documents my progress as I learn Kotlin with the goal of becomin
 - **Code**: [Rock-Paper-Scissors](./Rock-Paper-Scissors.kt)
 - **Highlights**: Learning control structures and arrays.
 
+## Projects
+
+### 2. Simple Banking System
+- **Description**: A basic banking system in Kotlin to manage deposits and withdrawals.
+- **Code**: [Rock-Paper-Scissors](./Day2/BankSystem.kt)
+- **Highlights**: Learning about classes, objects, and methods.
+
+
 ## How to Use
 
 1. Clone the repository: `git clone https://github.com/cybersleuth0/Kotlin-100DaysOfCode`
