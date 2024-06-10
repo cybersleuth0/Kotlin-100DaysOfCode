@@ -22,7 +22,7 @@ This repository documents my progress as I learn Kotlin with the goal of becomin
 
 ### 3. Unit Converter App
 - **Description**: A basic unit converter app using Jetpack Compose to explore UI development in Kotlin.
-- **Code**: [MainActivity.kt](../UnitConverter/MainActivity.kt)
+- **Code**: [MainActivity.kt](Day-3/UnitConverterApp/MainActivity.kt)
 - **Highlights**: Learning Jetpack Compose components and Composable functions.
 
 ## How to Use
