@@ -20,6 +20,10 @@ This repository documents my progress as I learn Kotlin with the goal of becomin
 - **Code**: [OOPS-Banking-System](./Day2/BankSystem.kt)
 - **Highlights**: Learning about classes, objects, and methods.
 
+### 3. Unit Converter App
+- **Description**: A basic unit converter app using Jetpack Compose to explore UI development in Kotlin.
+- **Code**: [MainActivity.kt](../UnitConverter/MainActivity.kt)
+- **Highlights**: Learning Jetpack Compose components and Composable functions.
 
 ## How to Use
 
