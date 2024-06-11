@@ -25,6 +25,11 @@ This repository documents my progress as I learn Kotlin with the goal of becomin
 - **Code**: [MainActivity.kt](Day-3/UnitConverterApp/MainActivity.kt)
 - **Highlights**: Learning Jetpack Compose components and Composable functions.
 
+### 4. Counter App with Jetpack Compose
+- **Description**: A Counter app built using Jetpack Compose to practice state management.
+- **Code**: [MainActivity.kt](Day-4/CounterApp/MainActivity.kt)
+- **Highlights**: Learning about `remember { mutableStateOf() }` and `rememberSavable { mutableStateOf() }`.
+
 ## How to Use
 
 1. Clone the repository: `git clone https://github.com/cybersleuth0/Kotlin-100DaysOfCode`
