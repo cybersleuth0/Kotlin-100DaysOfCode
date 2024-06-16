@@ -13,8 +13,6 @@ This repository documents my progress as I learn Kotlin with the goal of becomin
 - **Code**: [Rock-Paper-Scissors](./Rock-Paper-Scissors.kt)
 - **Highlights**: Learning control structures and arrays.
 
-## Projects
-
 ### 2. Simple Banking System
 - **Description**: A basic banking system in Kotlin to manage deposits and withdrawals.
 - **Code**: [OOPS-Banking-System](./Day2/BankSystem.kt)
@@ -29,8 +27,6 @@ This repository documents my progress as I learn Kotlin with the goal of becomin
 - **Description**: A Counter app built using Jetpack Compose to practice state management.
 - **Code**: [MainActivity.kt](Day-4/CounterApp/MainActivity.kt)
 - **Highlights**: Learning about `remember { mutableStateOf() }` and `rememberSavable { mutableStateOf() }`.
-
-## Projects
 
 ### 5. Unit Converter App with Jetpack Compose
 - **Description**: A fully functional Unit Converter app using Jetpack Compose.
