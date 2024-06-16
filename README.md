@@ -30,6 +30,13 @@ This repository documents my progress as I learn Kotlin with the goal of becomin
 - **Code**: [MainActivity.kt](Day-4/CounterApp/MainActivity.kt)
 - **Highlights**: Learning about `remember { mutableStateOf() }` and `rememberSavable { mutableStateOf() }`.
 
+## Projects
+
+### 5. Unit Converter App with Jetpack Compose
+- **Description**: A fully functional Unit Converter app using Jetpack Compose.
+- **Code**: [MainActivity.kt](Day-5/UnitConverterApp-complete/MainActivity.kt)
+- **Highlights**: State management, user input handling, and responsive UI.
+
 ## How to Use
 
 1. Clone the repository: `git clone https://github.com/cybersleuth0/Kotlin-100DaysOfCode`
