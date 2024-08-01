@@ -33,6 +33,11 @@ This repository documents my progress as I learn Kotlin with the goal of becomin
 - **Code**: [MainActivity.kt](Day-5/UnitConverterApp-complete/MainActivity.kt)
 - **Highlights**: State management, user input handling, and responsive UI.
 
+### 6. Shopping App with Jetpack Compose
+- **Description**: A shopping app built using Jetpack Compose to manage shopping lists dynamically.
+- **Code**: [MainActivity.kt](Day-6/Shopping-List/MainActivity.kt)
+- **Highlights**: State management, dynamic lists,Added features to add, remove, and update items in the list.
+
 ## How to Use
 
 1. Clone the repository: `git clone https://github.com/cybersleuth0/Kotlin-100DaysOfCode`
